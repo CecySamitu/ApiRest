@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">Disney</string>
+    <string name="fecha">Fecha de creación</string>
+    <string name="noFilms">No disponible en películas</string>
+    <string name="noDataAvailable">Información no disponible</string>
+    <string name="clasification">TP</string>
+    <string name="errorResponse">Error de respuesta en API</string>
+    <string name="fecha_no_disponible">Fecha no disponible</string>
+    <string name="conexi_n_exitosa">Conexión exitosa</string>
+    <string name="error_de_conexi_n">Error de conexión</string>
+</resources>
