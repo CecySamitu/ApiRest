@@ -1,4 +1,5 @@
 package com.cecysamitu.disney.view
+//Comentario para verificar el status en github
 
 import android.os.Bundle
 import androidx.activity.enableEdgeToEdge
